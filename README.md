@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lava-git
-- 👀 I’m have wa too many hobbies to list
+- 👀 I’m have way too many hobbies to list
 - 🌱 I’m currently exploring ways I can switch into a career in tech from healthcare, with interest in Full Stack Development
 
 <!---
